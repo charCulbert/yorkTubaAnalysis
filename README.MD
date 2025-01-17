@@ -1,5 +1,4 @@
-# YORK TUBA ANALYSIS
-
+# York Tuba Analysis
 #### This folder contains:
 
 ##### makePlots.ipynb
