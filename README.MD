@@ -1,6 +1,8 @@
 # YORK TUBA ANALYSIS
 
-## This folder contains:
+#### This folder contains:
 
-#### makePlots.ipynb
-###### A jupyter notebook containing all the code for prepping audio files and making plots
+##### makePlots.ipynb
+-- a jupyter notebook containing all the code for prepping audio files and making plots
+
+
