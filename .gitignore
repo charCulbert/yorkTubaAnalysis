@@ -63,3 +63,6 @@ Temporary Items
 
 # Reaper peaks files
 *.reapeaks
+
+#pngs
+*.png
