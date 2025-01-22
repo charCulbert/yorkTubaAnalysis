@@ -60,3 +60,9 @@ Temporary Items
 .idea/
 *.swp
 *.swo
+
+# Reaper peaks files
+*.reapeaks
+
+#pngs
+*.png
